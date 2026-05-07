@@ -3,10 +3,10 @@ A smart fruit recommendation web application built using Python and Streamlit th
 This project analyzes nutritional features of fruits and recommends the most similar fruits based on their nutrient composition.
 
 Features:
-Interactive Streamlit web application
-Fruit similarity recommendation using Cosine Similarity
-Nutritional feature scaling with MinMaxScaler
-Dynamic recommendation count selection
-Visual similarity charts
-Raw dataset viewer
-Simple and user-friendly interface
+1.Interactive Streamlit web application
+2.Fruit similarity recommendation using Cosine Similarity
+3.Nutritional feature scaling with MinMaxScaler
+4.Dynamic recommendation count selection
+5.Visual similarity charts
+6.Raw dataset viewer
+7.Simple and user-friendly interface
